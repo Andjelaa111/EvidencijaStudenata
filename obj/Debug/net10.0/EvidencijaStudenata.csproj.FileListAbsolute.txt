@@ -1,0 +1,14 @@
+C:\Users\Korisnik\Desktop\EvidencijaStudenata\EvidencijaStudenata\bin\Debug\net10.0\EvidencijaStudenata.exe
+C:\Users\Korisnik\Desktop\EvidencijaStudenata\EvidencijaStudenata\bin\Debug\net10.0\EvidencijaStudenata.deps.json
+C:\Users\Korisnik\Desktop\EvidencijaStudenata\EvidencijaStudenata\bin\Debug\net10.0\EvidencijaStudenata.runtimeconfig.json
+C:\Users\Korisnik\Desktop\EvidencijaStudenata\EvidencijaStudenata\bin\Debug\net10.0\EvidencijaStudenata.dll
+C:\Users\Korisnik\Desktop\EvidencijaStudenata\EvidencijaStudenata\bin\Debug\net10.0\EvidencijaStudenata.pdb
+C:\Users\Korisnik\Desktop\EvidencijaStudenata\EvidencijaStudenata\obj\Debug\net10.0\EvidencijaStudenata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\EvidencijaStudenata\EvidencijaStudenata\obj\Debug\net10.0\EvidencijaStudenata.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\EvidencijaStudenata\EvidencijaStudenata\obj\Debug\net10.0\EvidencijaStudenata.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\EvidencijaStudenata\EvidencijaStudenata\obj\Debug\net10.0\EvidencijaStudenata.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\EvidencijaStudenata\EvidencijaStudenata\obj\Debug\net10.0\EvidencijaStudenata.dll
+C:\Users\Korisnik\Desktop\EvidencijaStudenata\EvidencijaStudenata\obj\Debug\net10.0\refint\EvidencijaStudenata.dll
+C:\Users\Korisnik\Desktop\EvidencijaStudenata\EvidencijaStudenata\obj\Debug\net10.0\EvidencijaStudenata.pdb
+C:\Users\Korisnik\Desktop\EvidencijaStudenata\EvidencijaStudenata\obj\Debug\net10.0\EvidencijaStudenata.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\EvidencijaStudenata\EvidencijaStudenata\obj\Debug\net10.0\ref\EvidencijaStudenata.dll
